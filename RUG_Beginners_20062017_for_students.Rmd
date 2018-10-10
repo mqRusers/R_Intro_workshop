@@ -1,5 +1,10 @@
 ---
 title: "Macquarie R Users Group - An Introduction to R (written in R Notebook (Markdown))"
+author: René Heim
+author: Ina Geedicke
+author: Kaja Wierucka
+author: James Lawson
+date: 2017
 output:
   html_document:
     df_print: paged
